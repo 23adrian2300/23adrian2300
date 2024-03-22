@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian</h1>
 <h3 align="center"I'm a third-year student from Poland </h3>
 
-- I’m at the beginning of my adventure with computer science.
+I’m at the beginning of my adventure with computer science.
 
 <h3 align="left">I have worked with:</h3>
 <p align="left"> 
