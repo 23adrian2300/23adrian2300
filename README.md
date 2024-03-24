@@ -21,6 +21,21 @@ I’m at the beginning of my adventure with computer science.
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="40" height="40"></a> 
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
   
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=23adrian2300&bg_color=0d1117&color=bbb&line=6ca1d1&point=fff&hide_border=true&custom_title=Activity%20Chart" />
+  <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=23adrian2300&bg_color=fefefe&color=222&line=6ca1d1&point=000&hide_border=true&custom_title=Activity%20Chart" />
+</picture>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-23adrian2300.vercel.app/api/top-langs/?username=23adrian2300&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+    <img width="420px" alt="Most used languages" src="https://github-readme-stats-23adrian2300.vercel.app/api/top-langs/?username=23adrian2300&layout=compact&hide=Jupyter%20Notebook&langs_count=10&title_color=222&hide_border=true" />
+  </picture>
+  <h6><i>Data without Jupyter Notebook</i></h6>
+</div>
+
+
 <!--
 **23adrian2300/23adrian2300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
