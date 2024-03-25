@@ -36,7 +36,7 @@ I’m at the beginning of my adventure with Computer Science.
 <div align="center">
   <p>These are the programming languages I have used most frequently.</p>
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23adrian2300&langs_count=8&layout=pie&hide=Jupyter%20Notebook,pug&exclude_repo=CPP-AGH,a23adrian2300.github.io)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=23adrian2300&langs_count=8&layout=pie&hide=Jupyter%20Notebook,pug&exclude_repo=CPP-AGH,a23adrian2300.github.io&theme=merko)
 
 </div>
 
